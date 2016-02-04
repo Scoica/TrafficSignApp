@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\freeware sys\documents\visual studio 2015\projects\trafficsignapp\trafficsignapp\main.cpp(75): warning C4101: 'length': unreferenced local variable
+  TrafficSignApp.vcxproj -> C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\TrafficSignApp\x64\Debug\TrafficSignApp.exe
